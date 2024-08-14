@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Vahi-ni
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Business Analysis and digital marketing
+- 👀 I’m interested in Business Analysis and Digital marketing
 - 💞️ I’m looking to collaborate on Data related challenges
-- 📫 How to reach me :)
 - 😄 Pronouns: She
 - ⚡ Fun fact: I'm cool ;)
 
